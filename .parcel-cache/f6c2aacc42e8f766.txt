@@ -1,4 +1,4 @@
-7599
+7602
 134/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/forkify-flowchart-part-2.png1644221921000000000 0
 145/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/forkify-architecture-recipe-loading.png1644221921000000000 0
 117/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/.prettierrc1644221921000000000 0
@@ -6,16 +6,19 @@
 127/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/sass/_recipe.scss1644221921000000000 0
 124/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/sass/main.scss1644221921000000000 0
 114/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/sass1644221921000000000 1
-132/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/views/recipeView.js1661201539957201499 0
-126/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/controller.js1661201392667767807 0
-122/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/config.js1661197925350946604 0
+132/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/views/recipeView.js1661289147039977579 0
+132/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/views/searchView.js1661287446245653666 0
+133/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/views/resultsView.js1661289200207120419 0
+126/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/views/View.js1661290132856385817 0
+126/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/controller.js1661291332426000128 0
+122/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/config.js1661290717925806626 0
 122/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/img/logo.png1644221921000000000 0
 118/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/package.json1661196472755017839 0
 130/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/starter.3464ddca.js1660837689326218276 0
-128/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.e37f48ea.js1661201540085199348 0
+128/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.e37f48ea.js1661293397419040772 0
 131/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/favicon.76dd299c.png1661189206566942750 0
 132/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.62406edb.js.map1660837689326218276 0
-129/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/icons.21bad73c.svg1661201178403917061 0
+129/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/icons.21bad73c.svg1661288669979953045 0
 132/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.9335b842.js.map1661189206654941589 0
 128/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.62406edb.js1660837689322218225 0
 128/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/logo.8a7af738.png1661189206522943330 0
@@ -1588,7 +1591,7 @@
 147/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/transformer-json/lib1660837407920846637 1
 151/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/actual/string/pad-end.js1660853754635451041 0
 146/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/actual/string/at.js1660853754431439908 0
-116/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/index.html1661189409944322625 0
+116/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/index.html1661288841745007772 0
 160/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/features/css3-colors.js1660837408248855389 0
 137/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/utility-types/dist1660837408024849416 1
 152/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/actual/string/fontsize.js1660853754543446021 0
@@ -1846,7 +1849,7 @@
 159/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/actual/typed-array/to-spliced.js1660853754691454097 0
 146/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/math/log2.js1660853754615449950 0
 148/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/string/trim-end.js1660853754695454316 0
-121/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/model.js1661201178271919809 0
+121/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/model.js1661293397179039348 0
 168/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/features/once-event-listener.js1660837408288856455 0
 144/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/string/bold.js1660853754439440346 0
 145/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/string/index.js1660853754571447549 0
@@ -2058,7 +2061,7 @@
 151/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/full/array/last-index.js1660853754611449732 0
 189/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested/baz.js1660837408052850163 0
 157/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/@jridgewell/trace-mapping/package.json1660837407948847386 0
-110/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist1661201540085199348 1
+110/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist1661293397423040796 1
 154/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/fractional/releases/fraction-0.2.js1661196472723018106 0
 166/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/@swc/helpers/lib/_apply_decorated_descriptor.js1660837407936847065 0
 166/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/@jridgewell/trace-mapping/dist/types/types.d.ts1660837408040849843 0
@@ -2773,7 +2776,7 @@
 144/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/error/index.js1660853754571447549 0
 159/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/features/object-fit.js1660837408288856455 0
 153/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/instance/flags.js1660853754535445584 0
-129/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/icons.dfd7a6db.svg1661201178415916812 0
+129/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/icons.dfd7a6db.svg1661288669979953045 0
 142/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/array-buffer1660853754663452569 1
 148/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/math/log2.js1660853754615449950 0
 149/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/string/split.js1660853754671453006 0
@@ -3051,7 +3054,7 @@
 153/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/full/instance/find-last.js1660853754531445366 0
 151/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/electron-to-chromium/versions.js1660837408000848776 0
 146/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/regenerator-runtime/LICENSE1660837407884845674 0
-129/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.f7626f62.css1661201178407916979 0
+129/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.f7626f62.css1661288669979953045 0
 143/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/string/sup.js1660853754683453661 0
 149/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/nth-check/lib/esm/compile.d.ts1660837408032849629 0
 161/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/features/style-scoped.js1660837408296856669 0
@@ -3077,7 +3080,7 @@
 139/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/import-fresh/license1660837407884845674 0
 150/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/regions/FK.js1660837408264855816 0
 150/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/regions/TW.js1660837408300856776 0
-132/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.e37f48ea.js.map1661201540085199348 0
+132/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.e37f48ea.js.map1661293397423040796 0
 141/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/css-tree/data/index.js1660837408168853255 0
 148/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/namer-default/LICENSE1660837407920846637 0
 148/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/promise/finally.js1660853754527445147 0
@@ -4458,7 +4461,7 @@
 136/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/immutable/LICENSE1660837688114202800 0
 145/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/symbol/split.js1660853754671453006 0
 145/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/nth-check/lib/parse.js.map1660837408024849416 0
-131/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/favicon.8b2f57bf.png1661201178423916645 0
+131/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/favicon.8b2f57bf.png1661288669991952834 0
 150/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/regions/BW.js1660837408140852509 0
 150/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/caniuse-lite/data/regions/VG.js1660837408300856776 0
 156/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/es/string/virtual/iterator.js1660853754599449077 0
@@ -6431,10 +6434,10 @@
 159/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/source-map-support/source-map-support.js1660837407972848027 0
 137/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stage/4.js1660853754419439253 0
 137/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stage/0.js1660853754419439253 0
-133/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.f7626f62.css.map1661201178411916895 0
+133/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.f7626f62.css.map1661288669983952974 0
 137/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stage/2.js1660853754419439253 0
 134/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/LICENSE1660853754419439253 0
-118/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/views1661197314282219146 1
+118/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/src/js/views1661285496017263247 1
 166/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/css-tree/lib/syntax/node/PseudoClassSelector.js1660837408208854322 0
 135/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/index.js1660853754579447985 0
 169/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/internals/object-property-is-enumerable.js1660853754631450823 0
@@ -6722,7 +6725,7 @@
 146/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/array-buffer1660853754663452569 1
 155/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/array-buffer/slice.js1660853754663452569 0
 155/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/stable/array-buffer/index.js1660853754579447985 0
-121/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.html1661201178407916979 0
+121/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/index.html1661288841893005277 0
 146/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/lines-and-columns/README.md1660837407944847279 0
 162/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/workers/lib/threads/ThreadsChild.js1660837408076850802 0
 156/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/instance/index-of.js1660853754567447331 0
@@ -7285,7 +7288,7 @@
 153/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/url-search-params1660853754575447767 1
 154/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/clear-immediate.js1660853754447440781 0
 146/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/observable1660853754575447767 1
-128/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/logo.726d37a8.png1661201178415916812 0
+128/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/dist/logo.726d37a8.png1661288669979953045 0
 140/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/@parcel/fs/index.d.ts1660837408060850376 0
 139/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/ordered-binary/tests1660837407968847920 1
 155/home/dave/Desktop/complete-javascript-course-master/complete-javascript-course-master/18-forkify/starter/node_modules/core-js/features/composite-symbol.js1660853754451441000 0
